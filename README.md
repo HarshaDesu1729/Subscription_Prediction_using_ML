@@ -1,5 +1,5 @@
 # Subscription_Prediction_using_ML
-To predict whether a client for the bank will subscribe to term a deposit using ML
+To predict whether a client for the bank will subscribe to term deposit using ML
 Data Set: Kaggle - https://www.kaggle.com/datasets/rouseguy/bankbalanced
 
 Machine Learning:
