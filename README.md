@@ -10,7 +10,7 @@ Random Forest Classifier
 Gradient Boosted Classifier
 
 Libraries:
-pyspark
+Scikit learn
 numpy
 pandas
 
